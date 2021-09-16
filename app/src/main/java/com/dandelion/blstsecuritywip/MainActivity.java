@@ -9,7 +9,7 @@ import com.dandelion.blstsecuritywip.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
-    // Used to load the 'blstsecuritywip' library on application startup.
+    // Used to load the 'blstsecuritywip' library on application startup...
     static {
         System.loadLibrary("blstsecuritywip");
     }
